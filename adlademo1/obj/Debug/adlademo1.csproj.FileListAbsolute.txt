@@ -19,3 +19,6 @@ C:\Users\t-sichou\Documents\Visual Studio 2015\Projects\adlademo1\adlademo1\bin\
 C:\Users\t-sichou\Documents\Visual Studio 2015\Projects\adlademo1\adlademo1\obj\Debug\adlademo1.csprojResolveAssemblyReference.cache
 C:\Users\t-sichou\Documents\Visual Studio 2015\Projects\adlademo1\adlademo1\obj\Debug\adlademo1.exe
 C:\Users\t-sichou\Documents\Visual Studio 2015\Projects\adlademo1\adlademo1\obj\Debug\adlademo1.pdb
+C:\Users\t-sichou\Source\Repos\adlademo1\adlademo1\bin\Debug\adlademo1.exe.config
+C:\Users\t-sichou\Source\Repos\adlademo1\adlademo1\obj\Debug\adlademo1.exe
+C:\Users\t-sichou\Source\Repos\adlademo1\adlademo1\obj\Debug\adlademo1.pdb

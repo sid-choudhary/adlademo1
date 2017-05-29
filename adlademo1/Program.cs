@@ -26,9 +26,9 @@ namespace adlademo1
         {
             string localFolderPath = @"c:\Temp\";
             var tenantid = "72f988bf-86f1-41af-91ab-2d7cd011db47";
-            var applicationid = "3d13d90c-ad44-4138-9dc7-8947cbac179b";
+            var applicationid = "b32b83c2-3ca2-4580-a967-0fceb8f29295";
             var subscriptionid = "796eaf7c-2e26-4938-9b94-0f2369c33d74";
-            var password = "e5wnO76YaeTFgsKBMSZ1Cdf3e/nPPmN6uVsg2ngNazI=";
+            var password = "dD+Dfk6fgQEIJksSOdKXYas/00UTC4EPHP85ZiofVKw=";
 
             SynchronizationContext.SetSynchronizationContext(new SynchronizationContext());
             var clientCredential = new ClientCredential(applicationid, password);
